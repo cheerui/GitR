@@ -8,4 +8,5 @@ package cn.cheerui.Test;
  */
 public class Student {
     private int age;
+    private  int tall;
 }
