@@ -8,4 +8,5 @@ package cn.cheerui.Test;
  */
 public class Person {
     private  String name;
+    private String gender;
 }
